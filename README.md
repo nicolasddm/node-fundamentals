@@ -17,7 +17,7 @@ Você pode instalar umas dessas opções https://insomnia.rest/download/ ou http
 
 ### Clone
 
-- Clone esse repositório na sua máquina local `https://github.com/nicolasddm/FastFeet.git`
+- Clone esse repositório na sua máquina local `https://github.com/nicolasddm/node-fundamentals.git`
 
 ### Setup
 
